@@ -1,0 +1,10 @@
+num1=7
+num2=9
+ans=num1*num2
+ans1=num1+num2
+ans2=num1/num2
+ans3=num1-num2
+print(ans)
+print(ans1)
+print(ans2)
+print(ans3)
